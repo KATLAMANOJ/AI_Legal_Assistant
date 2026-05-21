@@ -1,6 +1,6 @@
 # ⚖️ AI Legal Assistant - RAG with Google Gemini
 
-[![GitHub Stars](https://img.shields.io/github/stars/KATLAMANOJ/AI_Legal_Assisttant?style=social)](https://github.com/KATLAMANOJ/AI_Legal_Assisttant)
+[![GitHub Stars](https://img.shields.io/github/stars/KATLAMANOJ/AI_Legal_Assistant?style=social)](https://github.com/KATLAMANOJ/AI_Legal_Assistant)
 
 An AI-powered legal document assistant that leverages Retrieval-Augmented Generation (RAG) with **Google Gemini 2.5 Flash** and **FAISS** for advanced legal reasoning and clause retrieval.
 
@@ -91,8 +91,8 @@ AI_Legal_Assisttant/
 
 ```bash
 # Clone repository
-git clone https://github.com/KATLAMANOJ/AI_Legal_Assisttant.git
-cd AI_Legal_Assisttant
+git clone https://github.com/KATLAMANOJ/AI_Legal_Assistant.git
+cd AI_Legal_Assistant
 
 # Create environment
 python -m venv venv
