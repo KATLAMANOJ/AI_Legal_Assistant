@@ -52,7 +52,7 @@ This assistant is designed to help users understand complex legal documents, ret
 ## 📁 Project Structure
 
 ```text
-AI_Legal_Assisttant/
+AI_Legal_Assistant/
 ├── assets/                    # Graphical assets and UI mockups
 │   ├── legal_assistant_banner.png
 │   ├── ui_mockup_main.png
